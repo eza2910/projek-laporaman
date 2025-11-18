@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746980866863",
+    "project_id": "laporanunkhair",
+    "storage_bucket": "laporanunkhair.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746980866863:android:28d15e842a042b51acffda",
+        "android_client_info": {
+          "package_name": "com.example.laporanunkhair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDewAgRRjbNPFDFzCLuyP27QJsZT8_5GRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
